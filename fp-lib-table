@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name USB_A)(type KiCad)(uri ${KIPRJMOD}/USB_A.pretty)(options "")(descr ""))
+  (lib (name SOIC127P790X216-8N)(type Legacy)(uri ${KIPRJMOD}/SOIC127P790X216-8N.mod)(options "")(descr ""))
+  (lib (name SLDA52)(type KiCad)(uri ${KIPRJMOD}/SLDA52.pretty)(options "")(descr ""))
+)

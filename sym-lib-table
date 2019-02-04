@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name libs)(type Legacy)(uri /home/crylog/Project/ESP8266_Ruber_Ducky/libs.lib)(options "")(descr ""))
+)
